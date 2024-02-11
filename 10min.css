@@ -1,0 +1,9 @@
+
+body {
+    background-image:url('https://img.freepik.com/free-photo/abstract-light-pink-background_53876-101910.jpg?w=740&t=st=1707068878~exp=1707069478~hmac=0a03aeb36b2bfe261a6154c04664563a7627d0453a77b56393dca14f01488bfd');
+    background-size: cover;
+}
+
+p,h1,h2,p2 {
+    color: lightcoral !important;
+}
